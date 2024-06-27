@@ -1,6 +1,6 @@
 # Hola 👋, I'm Brendan Cicero Pasaribu  
 
-🔭 I’m currently majoring in Computer Science at Pertamina University  
+🔭 I’m Fresh Graduate student in Computer Science at Pertamina University  
 🤔 I’m currently learning ReactJS  
 🌱 Hobby : Reading
 <!--
